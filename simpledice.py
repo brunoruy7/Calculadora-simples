@@ -1,8 +1,8 @@
 def simpledice():
     from random import randint
     n = True
-    r = []
     while n:
+        r = []
         print('-='*20)
         d = int(input('Quantos dados quer jogar: '))
         l = int(input('Quer dados de quantos lados: '))
@@ -15,7 +15,6 @@ def simpledice():
                 break
         if n1 == 'N':
             n = False
-        r = []
     print('-='*20)
     print('Obrigado por jogar')
 simpledice()
