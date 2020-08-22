@@ -1,2 +1,2 @@
-# Calculadora-simples
-Dado simples, onde você escolhe a quantidade de dados e quantos lado seu dado tem.
+# Dado-simples
+Dado simples, onde você escolhe a quantidade de dados e quantos lados seu dado tem.
